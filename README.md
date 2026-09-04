@@ -4,8 +4,8 @@ Curated **GitHub links** extracted from the Vishnu.ai Facebook reel
 [facebook.com/share/r/1BiCvZWeDd](https://www.facebook.com/share/r/1BiCvZWeDd/)
 (canonical reel: [facebook.com/reel/1699250244665283](https://www.facebook.com/reel/1699250244665283)).
 
-The reel is posted by **Vishnu.ai** and tells viewers to comment `Agent` for the link.
-That landing page is Vishnu.ai's list:
+The reel is posted by **Vishnu.ai**. On-screen text: **4 VIRAL AI AGENT's REPO**. Caption: comment `Agent` for the link.
+Facebook comments/DMs are gated, so the links below come from Vishnu.ai's public landing page:
 
 - [Top 7 GitHub Repos You Must Know Before Building with AI Agents](https://vishnuai.in/ai-agent-repos)
 
@@ -28,14 +28,16 @@ Source pages:
 | 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | Persistent memory for coding agents so they remember work across sessions. |
 | 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram types for Claude Code / Codex / Pi workflows. |
 | 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 160+ scientific skills and databases that turn agents into research assistants. |
-| 5 | [SaltAdamW/Awesome-Harness-Engineering](https://github.com/SaltAdamW/Awesome-Harness-Engineering) | Curated harness-engineering patterns: memory, skills, security, evals, orchestration. |
+| 5 | [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) | Curated harness-engineering patterns: memory, skills, security, evals, orchestration. |
 | 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Hundreds of structured cybersecurity skills for modern coding agents. |
 | 7 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Lets AI agents browse websites, click, type, and complete real browser tasks. |
 
 Nearby repos that match the same names if you want alternatives:
 
 - AgentMemory: [dklymentiev/agent-memory](https://github.com/dklymentiev/agent-memory)
-- Awesome Harness Engineering: [harness-engineer/awesome-harness-engineering](https://github.com/harness-engineer/awesome-harness-engineering), [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)
+- Awesome Harness Engineering: [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering), [SaltAdamW/Awesome-Harness-Engineering](https://github.com/SaltAdamW/Awesome-Harness-Engineering)
+
+The reel overlay says **4** repos; Vishnu.ai's public Agent page lists **7**. Both are recorded here.
 
 ---
 
