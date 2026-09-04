@@ -1,0 +1,72 @@
+{
+  "source": {
+    "facebook_share": "https://www.facebook.com/share/r/1BiCvZWeDd/",
+    "facebook_reel": "https://www.facebook.com/reel/1699250244665283",
+    "creator": "Vishnu.ai",
+    "creator_site": "https://vishnuai.in/",
+    "agent_list_page": "https://vishnuai.in/ai-agent-repos",
+    "token_list_page": "https://vishnuai.in/github-token-savers",
+    "reel_cta": "Comment Agent for the link"
+  },
+  "agent_repos": [
+    {
+      "rank": 1,
+      "name": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "note": "Context database for AI agents (memory, knowledge, skills)."
+    },
+    {
+      "rank": 2,
+      "name": "AgentMemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "alternates": ["https://github.com/dklymentiev/agent-memory"],
+      "note": "Persistent memory for coding agents."
+    },
+    {
+      "rank": 3,
+      "name": "Diagram Design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "note": "Editorial diagrams for Claude Code / Codex / Pi."
+    },
+    {
+      "rank": 4,
+      "name": "Scientific Agent Skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "note": "160+ scientific skills and databases for research agents."
+    },
+    {
+      "rank": 5,
+      "name": "Awesome Harness Engineering",
+      "url": "https://github.com/SaltAdamW/Awesome-Harness-Engineering",
+      "alternates": [
+        "https://github.com/harness-engineer/awesome-harness-engineering",
+        "https://github.com/ai-boost/awesome-harness-engineering"
+      ],
+      "note": "Harness engineering patterns for agents."
+    },
+    {
+      "rank": 6,
+      "name": "Anthropic Cybersecurity Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "note": "Structured cybersecurity skills for coding agents."
+    },
+    {
+      "rank": 7,
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
+      "note": "Browser automation for AI agents."
+    }
+  ],
+  "token_saver_repos": [
+    {"name": "RTK (Rust Token Killer)", "url": "https://github.com/rtk-ai/rtk"},
+    {"name": "Context Mode", "url": "https://github.com/mksglu/context-mode"},
+    {"name": "code-review-graph", "url": "https://github.com/tirth8205/code-review-graph"},
+    {"name": "Token Savior", "url": "https://github.com/Mibayy/token-savior"},
+    {"name": "Caveman Claude", "url": "https://github.com/JuliusBrussee/caveman"},
+    {"name": "claude-token-efficient", "url": "https://github.com/drona23/claude-token-efficient"},
+    {"name": "token-optimizer-mcp", "url": "https://github.com/ooples/token-optimizer-mcp"},
+    {"name": "claude-token-optimizer", "url": "https://github.com/nadimtuhin/claude-token-optimizer"},
+    {"name": "token-optimizer", "url": "https://github.com/alexgreensh/token-optimizer"},
+    {"name": "claude-context", "url": "https://github.com/zilliztech/claude-context"}
+  ]
+}
